@@ -4,7 +4,7 @@
 
 	<groupId>com.casualsuperman</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Parent Pom</name>
@@ -35,7 +35,7 @@
 		<url>https://gitlab.com/CasualSuperman/parent</url>
 		<developerConnection>scm:git:git@gitlab.com:CasualSuperman/parent.git</developerConnection>
 		<connection>scm:git:https://gitlab.com/CasualSuperman/parent.git</connection>
-		<tag>v1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<issueManagement>
 		<system>gitlab</system>
