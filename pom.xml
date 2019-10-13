@@ -312,9 +312,6 @@
 						<execution>
 							<id>default-cli</id>
 							<goals><goal>prepare</goal></goals>
-							<configuration>
-								<pushChanges>false</pushChanges>
-							</configuration>
 						</execution>
 					</executions>
 					<configuration>
